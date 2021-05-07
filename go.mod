@@ -2,4 +2,4 @@ module go-algo-training
 
 go 1.15
 
-require github.com/magiconair/properties v1.8.5
+require github.com/stretchr/testify v1.7.0
